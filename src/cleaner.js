@@ -2,7 +2,6 @@ import { globby } from 'globby';
 import { unlink, rmdir } from 'fs/promises';
 import { stat } from 'fs/promises';
 import chalk from 'chalk';
-import path from 'path';
 
 export class Cleaner {
     constructor({ patterns, exclude = [], dryRun = false }) {

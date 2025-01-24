@@ -139,9 +139,8 @@ cleanup:
 
 ## Support
 
-- 📚 Documentation: [cicube.io/docs/ci-cleaner](https://cicube.io/docs/ci-cleaner)
 - 🐛 Issue Tracker: [GitHub Issues](https://github.com/CI-Cube/ci-cleaner/issues)
-- 💬 Community: [CICube Discord](https://discord.gg/cicube)
+- 💬 Community: [Join us on Slack](https://s.cicube.io/slack)
 
 ## Contributing
 

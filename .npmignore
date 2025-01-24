@@ -1,0 +1,32 @@
+# Development files
+.git/
+.github/
+.gitignore
+.npmrc
+.eslintrc
+.eslintignore
+.prettierrc
+.editorconfig
+jest.config.js
+
+# Tests
+__tests__/
+test/
+tests/
+*.test.js
+*.spec.js
+
+# Build artifacts
+coverage/
+.nyc_output/
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db 
