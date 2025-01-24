@@ -1,0 +1,22 @@
+{
+    "name": "ci-cleaner",
+    "version": "1.0.0",
+    "description": " Keep your CI/CD pipelines clutter-free 🧹. Automatically remove temporary files, logs, and artifacts with a single command. ",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CI-Cube/ci-cleaner.git"
+    },
+    "keywords": [
+        "ci"
+    ],
+    "author": "CICube, Inc.",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/CI-Cube/ci-cleaner/issues"
+    },
+    "homepage": "https://github.com/CI-Cube/ci-cleaner#readme"
+}
